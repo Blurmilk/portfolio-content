@@ -1,0 +1,119 @@
+
+
+/** nav style **/
+/** fix nav **/
+.allnav{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+}
+
+.homepage{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 25px;
+    background-color: rgb(255, 255, 255);
+    color: antiquewhite;
+}
+
+.homepage:hover{
+    color: brown;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.nav-to-other-pages{
+    color: brown;
+    background-color: rgb(255, 255, 255);
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+
+}
+
+/**
+.nav-to-other-pages:hover{
+    color: brown;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+**/
+
+/** homepage test ver**/
+.header {
+    background-color: rgb(0, 0, 0);
+    height: 500px;
+    background-position: center center;
+  }
+
+.headertext{
+    color: antiquewhite;
+
+}
+.headerpic{
+    text-align: right;
+}
+
+.hpic{
+    height: 500px;
+}
+
+
+.copyright{
+    color: antiquewhite;
+}
+
+.headerh1{
+    text-align: left;
+
+}
+
+.headerp{
+    text-align: left;
+}
+
+/** image box **/
+.image{
+    margin: 30px;
+    width: 800px;
+    border: 3px solid DarkSlateGrey;
+    padding: 10px;
+}
+
+.whole{
+    margin: 50px;
+    width: 1000px;
+    border: 5px solid rgb(33, 56, 56);
+    padding: 30px;
+}
+
+/**hover over pictures **/
+.project:hover{
+    color: plum;
+}
+
+/**hover over paragraph **/
+p:hover{
+    color: palevioletred;
+
+}
+
+
+/**
+.contact{
+    position: absolute;
+    top: 100px;
+    margin: 30px;
+    width: 800px;
+    border: 3px solid DarkSlateGrey;
+    padding: 10px;
+}
+
+.footer{
+    position: relative;
+}
+**/
